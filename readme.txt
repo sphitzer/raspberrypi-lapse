@@ -1,5 +1,11 @@
 Readme...
 
+execute with command 
+
+python3 raspberrypi-lapse.py --tlname=couch8 --interval=5 --duration=40
+
+
+
 Followed this guide for the most part
 https://pimylifeup.com/raspberry-pi-dslr-camera-control/
 https://github.com/gphoto/libgphoto2.git
@@ -21,5 +27,6 @@ Send each photo to dev server for backup
 Ideas for timelapses over a long period of time in an enclosed space 
 - growing plants
 - crystal grow
+
 
 
