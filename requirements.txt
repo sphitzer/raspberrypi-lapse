@@ -1,3 +1,4 @@
 telethon
 gphoto2
-
+fastapi
+uvicorn[standard]

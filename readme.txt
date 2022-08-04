@@ -1,5 +1,29 @@
 Readme...
 
+gphoto-timelapse.py = control timelapse on external camera via usb interface
+raspberrypi-lapse.py = control attached piCamera
+    |
+    |
+    -----> Combine these two programs...
+
+
+# SETUP
+## gphoto2 SETUP
+
+
+## telegram SETUP
+
+
+## python SETUP
+- install python 3.9 (pip bundled)
+- install requirements.txt
+    pip install -r requirements.txt
+- ??
+
+# EXECUTION
+
+
+
 execute with command 
 
 python3 raspberrypi-lapse.py --tlname=couch8 --interval=5 --duration=40
