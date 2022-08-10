@@ -51,6 +51,3 @@ Send each photo to dev server for backup
 Ideas for timelapses over a long period of time in an enclosed space 
 - growing plants
 - crystal grow
-
-
-
